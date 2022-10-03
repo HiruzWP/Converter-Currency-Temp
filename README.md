@@ -1,6 +1,9 @@
 <h1 align="center">💸Conversor Alura+Oracle🌡</h1>
 <p align="center">A aplicação se consiste em um conversor de moedas e temperaturas.</p>
-![PrintDoConversor](https://user-images.githubusercontent.com/85461392/193660329-a36183d2-861c-4ea7-b276-d7978acea6af.png)
+
+
+![printconversor](https://user-images.githubusercontent.com/85461392/193666143-0d5c68c0-50c0-46d4-9b4e-d8b34788ba81.png)
+
 
 <h2>O Aplicativo faz:</h2>
 
