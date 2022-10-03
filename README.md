@@ -2,8 +2,9 @@
 <p align="center">A aplicação se consiste em um conversor de moedas e temperaturas.</p>
 
 
-![printconversor](https://user-images.githubusercontent.com/85461392/193666143-0d5c68c0-50c0-46d4-9b4e-d8b34788ba81.png)
-
+<div align="center">
+<img src="https://user-images.githubusercontent.com/85461392/193666143-0d5c68c0-50c0-46d4-9b4e-d8b34788ba81.png" />
+</div>
 
 <h2>O Aplicativo faz:</h2>
 
